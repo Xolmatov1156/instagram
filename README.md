@@ -7,7 +7,7 @@ My_Instagram
 
 Create a clone of the Instagram website with basic functionalities using ReactJS. The site should include the following features:
 User authentication: Sign up and login with email and password.
-User profile: Display user information such as profile picture, username, bio, and number of followers/following.
+User profile: Display user information such as profile picture, username, bio, and number of followers/following
 Home feed: Display posts from users that the current user follows.
 Post creation: Allow users to create new posts with images and captions.
 Like and comment: Allow users to like and comment on posts.
